@@ -1,2 +1,3 @@
 .editorconfig
-.idea
+.idea/
+node_modules/
